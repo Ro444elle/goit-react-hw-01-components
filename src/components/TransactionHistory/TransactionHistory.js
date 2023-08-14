@@ -30,6 +30,7 @@ export default function TransactionHistory({ items }) {
   );
 }
 
+// PropTypes
 TransactionHistory.propTypes = {
   items: PropTypes.arrayOf(
     PropTypes.shape({
