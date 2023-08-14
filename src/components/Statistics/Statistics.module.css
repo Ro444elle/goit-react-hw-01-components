@@ -1,0 +1,19 @@
+.statList {
+  list-style-type: none;
+  padding: 5px;
+  margin: 0;
+}
+
+.statistics {
+  background-color: bisque;
+  border: 1px solid rgba(64, 56, 7, 0.281);
+  margin-top: 10px;
+}
+
+.item {
+  padding-left: 10px;
+}
+
+.percentage {
+  padding: 7px;
+}

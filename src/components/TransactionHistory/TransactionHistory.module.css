@@ -1,0 +1,26 @@
+/* TransactionHistory.module.css */
+
+.transactionTable {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.transactionTable th,
+.transactionTable td {
+  border: 2px solid #ddd;
+  padding: 10px;
+  text-align: left;
+}
+
+.transactionTable th {
+  background-color: #928989;
+}
+
+.deposit {
+  color: green;
+}
+
+.withdrawal {
+  color: red;
+}
